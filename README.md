@@ -1,9 +1,3 @@
-https://www.linkedin.com/in/melaku-alelign-b1b034197/
-Author: Melaku Alelign Mengstie
-       Lecture from Univesity of Gondar, Ethiopia Since 2018 G.C
-	   MSc in Data Science and Analytics 
-	   
-	   
 
 The dataset from :Dabat Research Center which is established by University of Gondar 
 The dataset contains information about sociodemographic(family status) , location of head(location_info), Food secuirty related data(part_5) and Infrastructure facility(part3 and 4)
@@ -16,3 +10,10 @@ Risk Factors generated from file name "dummy-all.ipynb"
 
 Relevant rules generated from file name "nominal-all_final best selected model.ipynb"
 
+
+
+Author: Melaku Alelign Mengstie
+       Lecture from Univesity of Gondar, Ethiopia Since 2018 G.C
+	   MSc in Data Science and Analytics 
+
+  https://www.linkedin.com/in/melaku-alelign-b1b034197/
