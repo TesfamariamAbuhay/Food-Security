@@ -14,8 +14,8 @@ Relevant rules generated from file name "nominal-all_final best selected model.i
 
 
 
-Author: Melaku Alelign Mengstie
-
+       Author: Melaku Alelign Mengstie
+       
        Lecture from Univesity of Gondar, Ethiopia Since 2018 G.C
        
        MSc in Data Science and Analytics 
