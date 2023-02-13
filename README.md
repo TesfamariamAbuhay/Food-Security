@@ -1,9 +1,12 @@
 
-The dataset from :Dabat Research Center which is established by University of Gondar 
+Data Source :Dabat Research Center which is established by University of Gondar.
+
 The dataset contains information about sociodemographic(family status) , location of head(location_info), Food secuirty related data(part_5) and Infrastructure facility(part3 and 4).
+
 These five datasets (found in csv_data folder) have been integrated(familly_status_data,lab_part_4_grouped,labeled_part_3,labeled_part_5 and location_info).
 
-Similarly the implementation for each dataset avalaible here (familly.ipynb,location.ipynb,part_3&4 and part_5.ipynb)
+Similarly the implementation for each dataset avalaible here (familly.ipynb,location.ipynb,part_3&4 and part_5.ipynb).
+
 
 These datasets have been processed separatly and avalible in ( csv folder) and merged into one dataset using Final01.ipynb.
 
