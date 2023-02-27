@@ -15,8 +15,8 @@ Risk Factors generated from filename "dummy-all.ipynb".
 Relevant rules generated from file name "nominal-all_final best selected model.ipynb".
 
 
-#Authors: 
-  Melaku Alelign Mengstie
+# Authors: 
+  @ Melaku Alelign Mengstie
   https://www.linkedin.com/in/melaku-alelign-b1b034197/ and
-  Tesfamariam M. Abuhay
+  @ Tesfamariam M. Abuhay
   https://www.linkedin.com/in/tesfamariam-mulugeta-abuhay-b96a7161/
